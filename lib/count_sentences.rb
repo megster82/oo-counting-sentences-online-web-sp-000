@@ -14,6 +14,7 @@ class String
     else
       false 
 >>>>>>> bf4149ab8135021266f4e4ccc5de7040c6d3b6a7
+    end 
   end
 
   def question?
