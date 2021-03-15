@@ -7,11 +7,6 @@ class String
     else
       false 
     end 
-    if String.end_with?(".")
-      true
-    else
-      false
-    end 
   end
 
   def question?
