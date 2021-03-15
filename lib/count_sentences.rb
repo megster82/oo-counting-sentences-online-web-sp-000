@@ -12,8 +12,7 @@ class String
     if String.end_with?(".")
       true
     else
-      false 
->>>>>>> bf4149ab8135021266f4e4ccc5de7040c6d3b6a7
+      false
     end 
   end
 
