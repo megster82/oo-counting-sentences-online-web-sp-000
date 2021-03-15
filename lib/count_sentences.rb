@@ -8,9 +8,9 @@ class String
       false 
     end 
     if String.end_with?(".")
-      true
-    else
       false
+    else
+      true
     end 
   end
 
