@@ -2,13 +2,11 @@
 class String
 
   def sentence?
-<<<<<<< HEAD
     if self.end_with?(".")
       true
     else
       false 
     end 
-=======
     if String.end_with?(".")
       true
     else
